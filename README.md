@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer graphics, C++, gpu programming, game development, virtual reality 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any fantastic graphic program!
-- 📫 How to reach me email:1481435885@qq.com or 2023302111133@whu.edu.cn
+- 📫 How to reach me email:1481435885@qq.com or 2023302111133@whu.edu.cn or ysy1481435885@gmail.com 
 - 😄 Pronouns: him
 - ⚡ Fun fact: ...
 
