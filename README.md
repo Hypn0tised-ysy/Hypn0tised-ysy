@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shunyu Ye, an undergraduate student at Wuhan University
-- 👀 I’m interested in computer graphics, C++, gpu programming, openGL 
-- 🌱 I’m currently learning unity, openGL, computer graphics
+- 👀 I’m interested in computer graphics, C++, gpu programming, game development, virtual reality 
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any fantastic graphic program!
 - 📫 How to reach me email:1481435885@qq.com or 2023302111133@whu.edu.cn
 - 😄 Pronouns: ...
