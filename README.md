@@ -24,17 +24,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypn0tised-ysy&layout=pie)](https://github.com/Hypn0tised-ysy/github-readme-stats)
 
 <!---置顶repos--->
-<a href="https://github.com/Hypn0tised-ysy/github-readme-stats">
+<a href="https://github.com/Hypn0tised-ysy/tinyRenderer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hypn0tised-ysy&repo=tinyRenderer" />
 </a>
-<a href="https://github.com/Hypn0tised-ysy/convoychat">
+<a href="https://github.com/Hypn0tised-ysy/games101">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hypn0tised-ysy&repo=games101" />
 </a>
-<a href="https://github.com/Hypn0tised-ysy/convoychat">
+<a href="https://github.com/Hypn0tised-ysy/opengl_learn"">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hypn0tised-ysy&repo=opengl_learn" />
 </a>
 </a>
-<a href="https://github.com/Hypn0tised-ysy/convoychat">
+<a href="https://github.com/Hypn0tised-ysy/greedy-snake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hypn0tised-ysy&repo=greedy-snake" />
 </a>
 
