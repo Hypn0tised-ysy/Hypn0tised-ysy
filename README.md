@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shunyu Ye, an undergraduate student at Wuhan University
 - 👀 I’m interested in computer graphics, C++, GPU programming, game development, virtual reality 
 - 💞️ I’m looking to collaborate on any fantastic graphic program!
-- 📫 How to reach me email:1481435885@qq.com||2023302111133@whu.edu.cn||ysy1481435885@gmail.com 
+- 📫 How to reach me email:1481435885@qq.com
 - 😄 Pronouns: him
 <!---skills and tools--->
 <h3 align="left">Languages and Tools:</h3>
